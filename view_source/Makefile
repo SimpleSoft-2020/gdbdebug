@@ -1,4 +1,4 @@
-EXE:= section6
+EXE:= viewsource
 EXECUTABLE:= $(EXE)
 
 LIBDIR:=
